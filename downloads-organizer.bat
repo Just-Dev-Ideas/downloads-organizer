@@ -1,0 +1,1 @@
+python "C:\Users\Stefan\Documents\Projects\downloads-organizer\src\main.py"
